@@ -1,0 +1,7 @@
+{
+  "name": "EssenceFlow - Gestión de Inventario de Perfumes",
+  "description": "Una aplicación profesional para la gestión de inventario de perfumes por mililitros, control de decants (5ml/10ml), registro de clientes y generación de facturas digitales compartibles.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
